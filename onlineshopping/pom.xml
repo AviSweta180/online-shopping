@@ -15,6 +15,13 @@
 	</properties>
 
 	<dependencies>
+		<!-- Linking Backend Project -->
+		<dependency>
+			<groupId>net.kzn</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
 		<!-- Java EE Dependency -->
 		<dependency>
 			<groupId>javax</groupId>
